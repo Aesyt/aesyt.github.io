@@ -1,3 +1,6 @@
 - name: Aes_yt
   url: http://aesyt.github.io
   src: life
+- name: gitee
+  url: https://gitee.com/Aes_yt
+  src: life
